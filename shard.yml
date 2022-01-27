@@ -1,0 +1,9 @@
+name: algs
+version: 0.1.0
+
+authors:
+  - Jeppe Lillevang Salling <jeppe.lillevang@gmail.com>
+
+crystal: 1.3.0
+
+license: MIT
