@@ -1,6 +1,28 @@
 # algs
 
-TODO: Write a description here
+This is a library that implements the algorithms and datastructures described in *Algorithms 4th ed.* by Robert Sedgewick and Kevin Wayne.
+
+Booksite: git remote add origin git@github.com:Lillevang/algs.git
+
+ISBN-13: 978-0321573513
+
+ISBN-10: 032157351X 
+
+Keep in mind that implementations are purely for training purposes and is not intended to be used for anything other than the exercises in the book.
+Many of the algorithms and datastructures provided here are already available in the standard library.
+
+## Contents
+
+The library is build around the same structure a the book:
+
+1. Fundamentals
+2. Sorting
+3. Searching
+4. Graphs
+5. Strings
+6. Context
+
+Additionally there's a utility module containing widely used classes and structs.
 
 ## Installation
 
